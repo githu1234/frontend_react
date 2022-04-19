@@ -91,7 +91,7 @@
      svg {
       width: 70%;
       height: 70%;
-      color: var(--white-color);
+      color: var(--black-color);
     }
 
     div {
@@ -111,6 +111,7 @@
       flex-direction: column;
 
       background: url('../../assets/bgWhite.png');
+      background-color: aquamarine;
       background-size: cover;
       background-repeat: repeat;
       box-shadow: 0 0 20px rgba(168, 168, 168, 0.15);
@@ -118,7 +119,7 @@
       svg {
         width: 35px;
         height: 35px;
-        color: var(--secondary-color);
+        color: var(--primary-color);
         margin: 0.5rem 1rem;
       }
 
@@ -140,7 +141,7 @@
           cursor: pointer;
 
           a {
-            color: var(--gray-color);
+            color: var(--secondary-color);
             text-decoration: none;
             font-size: 1rem;
             text-transform: uppercase;
