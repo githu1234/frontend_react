@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+:root {
+  --font-base: 'DM Sans', sans-serif;
+
+  --primary-color: rgb(223, 198, 198);
+  --secondary-color: blue;
+  --black-color: rgb(33, 23, 23);
+  --lightyGray-color: lightgray;
+  --gray-color: gray;
+  --brown-color: brown;
+  --white-color: rgb(212, 197, 197);
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+}
